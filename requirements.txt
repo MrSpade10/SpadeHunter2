@@ -1,9 +1,9 @@
 pyTelegramBotAPI
-pandas
-scipy
-numpy
-python-dotenv
-requests
-pytz
 flask
+pandas
+numpy
+scipy
+requests
 psycopg2-binary
+python-dotenv
+pytz
